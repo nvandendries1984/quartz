@@ -1,0 +1,8 @@
+{
+    "name": "nielsvandendries/quartz-theme-2024-theme",
+    "type": "october-theme",
+    "description": "Bootswatch Theme lifted to Bootstrap version 5.3.3",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
